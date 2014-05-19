@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<corpus id="Wed Aug 04 15:15:48 CEST 2010">
+    <body>
+        <s>
+            <w t="email">phuonglh@gmail.com</w>
+        </s>
+        <s>
+            <w t="word">Địa chỉ</w>
+            <w t="word">email</w>
+            <w t="email">phuonglh@gmail.com</w>
+            <w t="word">sẽ</w>
+            <w t="word">được</w>
+            <w t="word">tách</w>
+            <w t="word">thành</w>
+            <w t="ellipsis">...</w>
+        </s>
+        <s>
+            <w t="allcaps">BKVIEWS</w>
+            <w t="ponctuation">:</w>
+            <w t="word">Hệ thống</w>
+            <w t="word">đào tạo</w>
+            <w t="word">tương tác</w>
+            <w t="word">ảo</w>
+            <w t="word">nền</w>
+            <w t="name1">Web</w>
+            <w t="ponctuation">,</w>
+            <w t="word">dự án</w>
+            <w t="word">nghiên cứu</w>
+            <w t="word">cấp</w>
+            <w t="word">nhà nước</w>
+            <w t="ponctuation">,</w>
+            <w t="word">trưởng</w>
+            <w t="word">nhóm</w>
+            <w t="ponctuation">,</w>
+            <w t="entity2">2001-2003</w>
+            <w t="ponctuation">.</w>
+        </s>
+        <s>
+            <w t="entity2">MathDBMS</w>
+            <w t="ponctuation">:</w>
+            <w t="word">Hệ thống</w>
+            <w t="word">quản lý</w>
+            <w t="word">cơ sở dữ liệu</w>
+            <w t="word">toán học</w>
+            <w t="ponctuation">,</w>
+            <w t="word">Đại học</w>
+            <w t="name2">Bách Khoa Hà Nội</w>
+            <w t="ponctuation">,</w>
+            <w t="word">thành viên</w>
+            <w t="ponctuation">,</w>
+            <w t="date_yyyy">2001</w>
+            <w t="ponctuation">.</w>
+        </s>
+    </body>
+</corpus>

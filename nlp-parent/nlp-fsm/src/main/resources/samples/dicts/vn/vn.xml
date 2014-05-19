@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<fsm name="samples/dicts/vn/vn.xml">
+    <states>
+        <s type="0" id="0"/>
+        <s type="1" id="1"/>
+        <s type="2" id="2"/>
+        <s type="1" id="3"/>
+        <s type="1" id="4"/>
+        <s type="1" id="5"/>
+        <s type="1" id="6"/>
+        <s type="1" id="7"/>
+        <s type="1" id="8"/>
+        <s type="1" id="9"/>
+        <s type="1" id="10"/>
+        <s type="1" id="11"/>
+        <s type="2" id="12"/>
+        <s type="1" id="13"/>
+        <s type="1" id="14"/>
+        <s type="1" id="15"/>
+        <s type="1" id="17"/>
+        <s type="1" id="16"/>
+        <s type="1" id="19"/>
+        <s type="1" id="18"/>
+        <s type="1" id="20"/>
+    </states>
+    <transitions>
+        <t inp="b" tar="1" src="0"/>
+        <t inp="c" tar="5" src="0"/>
+        <t inp="h" tar="7" src="0"/>
+        <t inp="m" tar="9" src="0"/>
+        <t inp="n" tar="16" src="0"/>
+        <t inp="s" tar="18" src="0"/>
+        <t inp="t" tar="20" src="0"/>
+        <t inp="a" tar="2" src="1"/>
+        <t inp="ả" tar="3" src="1"/>
+        <t inp="ố" tar="4" src="1"/>
+        <t inp="y" tar="2" src="3"/>
+        <t inp="n" tar="2" src="4"/>
+        <t inp="h" tar="6" src="5"/>
+        <t inp="í" tar="4" src="6"/>
+        <t inp="a" tar="8" src="7"/>
+        <t inp="i" tar="2" src="8"/>
+        <t inp="ư" tar="10" src="9"/>
+        <t inp="ộ" tar="15" src="9"/>
+        <t inp="ờ" tar="11" src="10"/>
+        <t inp="i" tar="12" src="11"/>
+        <t inp=" " tar="13" src="12"/>
+        <t inp="h" tar="7" src="13"/>
+        <t inp="m" tar="14" src="13"/>
+        <t inp="ộ" tar="15" src="14"/>
+        <t inp="t" tar="2" src="15"/>
+        <t inp="m" tar="2" src="17"/>
+        <t inp="ă" tar="17" src="16"/>
+        <t inp="u" tar="2" src="19"/>
+        <t inp="á" tar="19" src="18"/>
+        <t inp="á" tar="17" src="20"/>
+    </transitions>
+</fsm>

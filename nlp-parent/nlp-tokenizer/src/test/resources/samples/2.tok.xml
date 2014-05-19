@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<corpus id="Wed Aug 04 15:27:22 CEST 2010">
+    <body>
+        <s>
+            <w t="word">Sau</w>
+            <w t="word">khi</w>
+            <w t="word">vào</w>
+            <w t="word">đất liền</w>
+            <w t="ponctuation">,</w>
+            <w t="word">bão</w>
+            <w t="word">số</w>
+            <w t="number1">4</w>
+            <w t="word">nhanh chóng</w>
+            <w t="word">suy yếu</w>
+            <w t="word">thành</w>
+            <w t="word">áp thấp nhiệt đới</w>
+            <w t="ponctuation">,</w>
+            <w t="word">gây</w>
+            <w t="word">mưa</w>
+            <w t="word">trên</w>
+            <w t="word">toàn bộ</w>
+            <w t="word">miền</w>
+            <w t="word">Bắc</w>
+            <w t="word">và</w>
+            <w t="name2">Bắc Trung Bộ</w>
+            <w t="ponctuation">.</w>
+        </s>
+        <s>
+            <w t="word">Trên</w>
+            <w t="word">đường</w>
+            <w t="word">đi</w>
+            <w t="word">của</w>
+            <w t="word">áp thấp</w>
+            <w t="ponctuation">,</w>
+            <w t="phrase">ngày</w>
+            <w t="date_dd-mm">12/7</w>
+            <w t="ponctuation">,</w>
+            <w t="word">hàng loạt</w>
+            <w t="word">tỉnh thành</w>
+            <w t="word">phía</w>
+            <w t="word">Bắc</w>
+            <w t="word">chìm</w>
+            <w t="word">trong</w>
+            <w t="word">mưa</w>
+            <w t="word">lớn</w>
+            <w t="word">trên</w>
+            <w t="number1">100</w>
+            <w t="word">mm</w>
+            <w t="word">như</w>
+            <w t="name2">Nam Định</w>
+            <w t="ponctuation">,</w>
+            <w t="name2">Hà Nam</w>
+            <w t="ponctuation">,</w>
+            <w t="name2">Ninh Bình</w>
+            <w t="ponctuation">,</w>
+            <w t="name2">Thái Bình</w>
+            <w t="ponctuation">,</w>
+            <w t="name2">Hòa Bình</w>
+            <w t="ponctuation">.</w>
+        </s>
+        <s>
+            <w t="word">Đến</w>
+            <w t="word">sáng</w>
+            <w t="word">nay</w>
+            <w t="ponctuation">,</w>
+            <w t="word">mưa</w>
+            <w t="word">tại</w>
+            <w t="word">các</w>
+            <w t="word">địa phương</w>
+            <w t="word">này</w>
+            <w t="word">giảm</w>
+            <w t="word">dần</w>
+            <w t="ponctuation">.</w>
+        </s>
+        <s>
+            <w t="word">Cụ thể</w>
+            <w t="ponctuation">,</w>
+            <w t="word">lương</w>
+            <w t="word">của</w>
+            <w t="word">một</w>
+            <w t="word">lao động</w>
+            <w t="word">trong</w>
+            <w t="word">doanh nghiệp</w>
+            <w t="word">nhà nước</w>
+            <w t="word">là</w>
+            <w t="number1">3,2</w>
+            <w t="word">triệu</w>
+            <w t="word">đồng</w>
+            <w t="ponctuation">,</w>
+            <w t="phrase">tăng</w>
+            <w t="percent">1,2%</w>
+            <w t="ponctuation">.</w>
+        </s>
+        <s>
+            <w t="word">Ông</w>
+            <w t="name">Nguyễn Tấn Dũng</w>
+            <w t="word">đã</w>
+            <w t="word">tham dự</w>
+            <w t="word">lễ</w>
+            <w t="word">khởi công</w>
+            <w t="word">nhà máy</w>
+            <w t="name1">A</w>
+            <w t="ponctuation">.</w>
+        </s>
+        <s>
+            <w t="name2">Nguyễn Tấn Dũng</w>
+            <w t="word">đã</w>
+            <w t="word">tham dự</w>
+            <w t="word">lễ</w>
+            <w t="word">khởi công</w>
+            <w t="word">nhà máy</w>
+            <w t="name1">A</w>
+            <w t="ponctuation">.</w>
+        </s>
+    </body>
+</corpus>
