@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>vn.hus</groupId>
 	<artifactId>nlp-tokenizer</artifactId>
-	<version>4.1.1-SNAPSHOT</version>
+	<version>4.1.1</version>
 
 	<parent>
 	    <groupId>com.tamedtornado</groupId>
